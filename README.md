@@ -32,9 +32,3 @@ Connected 3 **Slicers** (Roast Type, Size, Loyalty Status) and 1 **Timeline** vi
 ## Dashboard
 <img width="1328" height="645" alt="image" src="https://github.com/user-attachments/assets/17c68a79-396d-46c5-aa56-bee693830d89" />
 
-
-
-
-
-
-**Would you like me to condense this further into a 3-bullet "Projects" entry for your resume?**
