@@ -28,6 +28,13 @@ Connected 3 **Slicers** (Roast Type, Size, Loyalty Status) and 1 **Timeline** vi
 * **Scalability:** System architecture supports **infinite data row expansion** without requiring formula rewrites due to structured table referencing.
 * **Dimensional Analysis:** Enabled instantaneous cross-sectional analysis across **4 coffee species, 3 roast types, 4 package sizes, and 3 international markets**.
 
----
+
+## Dashboard
+<img width="1328" height="645" alt="image" src="https://github.com/user-attachments/assets/17c68a79-396d-46c5-aa56-bee693830d89" />
+
+
+
+
+
 
 **Would you like me to condense this further into a 3-bullet "Projects" entry for your resume?**
